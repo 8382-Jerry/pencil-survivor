@@ -1,0 +1,21 @@
+# 构建输出（pygbag 生成）
+build/
+
+# IDE 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 系统文件
+.DS_Store
+Thumbs.db
